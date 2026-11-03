@@ -1,0 +1,52 @@
+{
+    "container": {
+        "width": 4.0,
+        "height": 3.0,
+        "length": 6.0,
+        "maxWeight": 500.0
+    },
+    "packages": [
+        {
+            "id": "PKG_01",
+            "width": 1.5,
+            "height": 1.0,
+            "length": 1.5,
+            "weight": 120.0
+        },
+        {
+            "id": "PKG_02",
+            "width": 1.2000000476837158,
+            "height": 1.2000000476837158,
+            "length": 1.2000000476837158,
+            "weight": 90.0
+        },
+        {
+            "id": "PKG_03",
+            "width": 2.0,
+            "height": 1.0,
+            "length": 1.5,
+            "weight": 150.0
+        },
+        {
+            "id": "PKG_04",
+            "width": 1.0,
+            "height": 1.5,
+            "length": 1.0,
+            "weight": 80.0
+        },
+        {
+            "id": "PKG_05",
+            "width": 1.5,
+            "height": 1.0,
+            "length": 2.0,
+            "weight": 110.0
+        },
+        {
+            "id": "PKG_06",
+            "width": 1.0,
+            "height": 1.0,
+            "length": 1.0,
+            "weight": 60.0
+        }
+    ]
+}
